@@ -1,4 +1,4 @@
-name: Run Unit Testes
+name: Run E2E Testes
 
 on: [pull_request]
 
